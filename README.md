@@ -6,4 +6,4 @@ Diese Seite enthält rechtliche Informationen zur App **Office Quartett**.
 - [Konto löschen](https://maelitsch.github.io/officequartett-legal/delete.html)
 
 ## Kontakt
-Bei Fragen: malic.delete@gmail.com
+Bei Fragen: engelmannmalic76@gmail.com
